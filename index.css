@@ -1,0 +1,57 @@
+body{
+    font-family:  Old Standard TT;
+    background-color: rgb(241, 76, 241);
+    
+}
+.main-button{
+    background: #ee0076;
+    color: white;
+    font-size: 30px;
+    padding: 2% 5%;
+    border: none;
+    border-radius: 45px;
+}
+.nav-item{
+    padding: 50px,50px;
+    color:red;
+    padding: 50px, 50px;
+
+    justify-content: space-between;
+
+
+}
+
+p {
+
+font-size: 20px;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;
+font-style: italic;
+color:rgb(61, 184, 39);
+
+}
+
+.imgg{
+    position: relative;
+    left: 200px;
+
+}
+.nav-item1{
+border:1px solid black;
+height: 50px;
+width: 50px;
+border-radius: 45px;
+background-color: rgb(100,200,250);
+text-align: center;
+background-color: darkblue;
+}
+header{
+
+display: flex;
+justify-content: space-between;
+
+
+
+
+}
